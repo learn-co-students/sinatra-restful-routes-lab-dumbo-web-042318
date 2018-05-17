@@ -1,0 +1,5 @@
+Recipe.new("chicken parm", "chicken, sauce, cheese, breading", "45 minutes")
+Recipe.new("pizza", "cheese, dough, sauce", "30 minutes")
+Recipe.new("ravioli", "sauce, cheese, ravioli", "60 minutes")
+Recipe.new("linguine", "linguine, marinara, cheese, prosciutto", "50 minutes")
+Recipe.new("pasta fagiole", "pasta, soup, meatballs, spinach", "90 minutes")
